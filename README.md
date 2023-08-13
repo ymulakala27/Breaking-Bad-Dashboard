@@ -66,8 +66,3 @@ While crafting this dashboard, several challenges were addressed:
 
 The Breaking Bad Show Analysis Tableau Dashboard offers an immersive exploration into the intricacies of this legendary show. From episode specifics to viewership trends, this dashboard provides insights that enrich the viewer's understanding of Breaking Bad's impact and popularity. Feel free to explore and interact, and gain deeper insights into the iconic series.
 
-Created by [Your Name]
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
